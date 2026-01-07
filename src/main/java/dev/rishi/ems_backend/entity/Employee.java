@@ -1,3 +1,5 @@
+// represents a concept of an Employee
+
 package dev.rishi.ems_backend.entity;
 
 import jakarta.persistence.Entity;
@@ -8,6 +10,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+// Entity: This class corresponds to a database table called employee
 @Entity
 @Data
 @NoArgsConstructor

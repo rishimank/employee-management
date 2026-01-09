@@ -1,3 +1,6 @@
+// contains business logic
+     // keeps database access centralized
+
 package dev.rishi.ems_backend.service;
 
 import dev.rishi.ems_backend.entity.Employee;

@@ -1,4 +1,5 @@
 // an interface that extends Spring Data JPA's JpaRepository
+// talks to the database via Spring Data JPA
 
 package dev.rishi.ems_backend.repository;
 

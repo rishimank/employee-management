@@ -1,4 +1,5 @@
 // represents a concept of an Employee
+// maps to database table
 
 package dev.rishi.ems_backend.entity;
 

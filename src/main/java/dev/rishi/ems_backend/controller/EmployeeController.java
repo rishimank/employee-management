@@ -1,5 +1,7 @@
 // public entry point to the backend
 // controller between HTTP (JSON, URLs, verbs) and Java
+// basically handles HTTP Requests/responses
+    // keeps API entry points separate from business logic
 
 // what it does:
 // 1. converts HTTP requests to Java objects

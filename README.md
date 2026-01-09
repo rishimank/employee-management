@@ -1,3 +1,5 @@
+🧑‍💼 Employee Management System (EMS)
+
 📌 Description
 
 The Employee Management System (EMS) is a RESTful backend application built using Spring Boot and Spring Data JPA (Hibernate) with a PostgreSQL database.

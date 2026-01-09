@@ -41,6 +41,7 @@ The application follows a **layered architecture**:
 - **Docker**
 - **Maven**
 - **Jakarta Validation**
+- **Lombok**
 - **Postman (API testing)**
 
 ---

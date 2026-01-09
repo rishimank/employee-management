@@ -46,6 +46,16 @@ The application follows a **layered architecture**:
 
 ---
 
+## 🔮 Future Improvements
+
+- **Update employee endpoint (PUT/PATCH)**
+- **Pagination and sorting**
+- **Search/filter employees**
+- **Authentication & authorization**
+- **Environment-based profiles (dev/prod)**
+
+  
+
 ## 🐳 Docker Setup (PostgreSQL)
 The PostgreSQL database runs inside a Docker container.
 
@@ -57,4 +67,7 @@ docker run --name ems-postgres \
   -e POSTGRES_DB=emsdb \
   -p 5432:5432 \
   -d postgres:15
+
+
+
 
